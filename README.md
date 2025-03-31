@@ -12,11 +12,16 @@ AlphaGo项目负责人David Silver: Teaching
 - [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 
 - [Hugging Face-Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- https://github.com/huggingface/deep-rl-class
+  
 - [强化学习的数学原理](https://www.bilibili.com/video/BV1sd4y167NS/?p=8&spm_id_from=pageDriver&vd_source=b3d4057adb36b9b243dc8d7a6fc41295)
 - https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning
+  
 -[stanfordonline-CS234: Reinforcement Learning-Winter 2019](https://www.youtube.com/watch?v=buptHUzDKcE&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=5)
 - [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/index.html)
+  
 - [Deep Mind-强化学习高阶课程 Deep Reinforcement Learning](https://www.bilibili.com/video/av45444509/?from=search&seid=4510347850534739671&vd_source=b3d4057adb36b9b243dc8d7a6fc41295)
+  
 - [berkeley-deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
   
 
